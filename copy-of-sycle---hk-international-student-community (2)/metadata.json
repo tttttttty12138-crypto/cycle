@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sycle - HK International Student Community",
+  "description": "A closed-loop campus ecosystem for HK international students featuring intelligent second-hand trading, knowledge sharing, and peer errands powered by AI and a points economy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
